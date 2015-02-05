@@ -1,5 +1,5 @@
 {
-    "name": "usm4n/guardian",
+    "name": "sattip/guardian",
     "description": "Role Based Access Control Package For Laravel With Backend Interface",
     "keywords": ["RBAC", "laravel Authorization","laravel AccessControl","RBAC laravel"],
     "license" : "MIT",
